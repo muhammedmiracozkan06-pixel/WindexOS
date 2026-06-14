@@ -1,7 +1,17 @@
 <img width="342" height="295" alt="image" src="https://github.com/user-attachments/assets/a8841de1-5b08-4cf5-9dcc-95cf18e1f298" />
-Wind Developers Corporation aims to offer a more modern and agile system with windexOS. The project is a Linux distribution based on Debian and Linux Mint LMD 7. New features are constantly being added and improved; it is expected to be released on August 13th. For updates:
+WindexOS
+Wind Developers Corporation aims to offer a more modern and agile system with WindexOS. The project is a professional Linux distribution built on the robust foundation of Debian and LMDE 7 (Linux Mint Debian Edition).
 
-ig(tr):@windexosreal
-globalig:@winddevelopers
+New features are constantly being developed, integrated, and optimized to provide a unique user experience.
 
-Linux is a trademark of Linus Torvalds and all rights are reserved.
+🚀 Launch Date
+The official release is scheduled for August 13th, 2026.
+
+🌐 Connect with Us
+Stay updated with the latest progress and development news:
+
+Instagram (TR): @windexosreal
+
+Global Instagram: @winddevelopers
+
+Linux is a registered trademark of Linus Torvalds. All rights reserved by their respective owners.
