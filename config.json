@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "glow_color": "#5b81aa",
+    "glow_border_thickness": 6,
+    "glow_duration_ms": 3000
+}
