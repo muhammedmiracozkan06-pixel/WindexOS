@@ -15,4 +15,4 @@ Instagram (TR): @windexosreal
 Global Instagram: @winddevelopers
 
 Linux is a registered trademark of Linus Torvalds. All rights reserved by their respective owners.
-# WindexOS 2025 Tarihçesi
+
